@@ -14,7 +14,7 @@
 
 | # | Name | Stack | Status | Live Link | Repo |
 |---|------|-------|--------|-----------|------|
-| 1 | Purchase Order Copilot | Next.js + Gemini API → Vercel | `in-progress` | — | — |
+| 1 | Purchase Order Copilot | Next.js + Gemini API → Vercel | `deployed` | [Live](https://ai-portfolio-pocs.vercel.app/) | [Repo](https://github.com/amlanprateek/ai-portfolio-pocs) |
 | 2 | Marketplace Listing Localizer | Next.js + Gemini API → Vercel | `planned` | — | — |
 | 3 | AI Use-Case Prioritization Scorer | Next.js + Gemini API → Vercel | `planned` | — | — |
 | 4 | RAG-Based Ecommerce Ops Assistant | Next.js + Gemini API + Supabase pgvector → Vercel | `planned` | — | — |
@@ -70,6 +70,6 @@
 ---
 
 ## Changelog
-- **2026-03-13**: POC 1 built and passing production build. Pending Vercel deployment and GIF recording.
+- **2026-03-13**: POC 1 deployed to Vercel. Live at https://ai-portfolio-pocs.vercel.app/ — pending GIF recording to reach `polished`.
 - **2026-03-12**: Switched stack from Claude API to Gemini API (free tier, no credit card). Updated all POC descriptions with Gemini-specific advantages.
 - **2026-03-12**: Portfolio initialized with 6 POC ideas. Structure and CLAUDE.md created.

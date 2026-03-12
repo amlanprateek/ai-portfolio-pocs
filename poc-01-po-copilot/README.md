@@ -4,7 +4,7 @@ AI-powered purchase order recommendations for ecommerce inventory management. Up
 
 ## Live Demo
 
-> _Link will be added after Vercel deployment_
+**https://ai-portfolio-pocs.vercel.app/**
 
 ## How It Works
 
