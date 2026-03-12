@@ -1,0 +1,26 @@
+sku,product_name,current_stock,daily_sales_velocity,supplier_moq,unit_cost,lead_time_days,supplier_name,category
+TEE-BLK-M,Black Basic Tee - Medium,45,12.5,100,8.50,14,Apex Textiles,Tops
+TEE-BLK-L,Black Basic Tee - Large,30,10.0,100,8.50,14,Apex Textiles,Tops
+TEE-WHT-S,White Basic Tee - Small,120,5.0,100,8.50,14,Apex Textiles,Tops
+POLO-NVY-M,Navy Polo Shirt - Medium,8,4.0,50,14.00,14,Apex Textiles,Tops
+POLO-NVY-L,Navy Polo Shirt - Large,60,3.5,50,14.00,14,Apex Textiles,Tops
+TANK-GRY-M,Grey Tank Top - Medium,200,2.0,100,6.00,14,Apex Textiles,Tops
+SNK-WHT-10,White Sneakers - Size 10,12,3.0,30,32.00,21,Sole Brothers Footwear,Footwear
+SNK-WHT-11,White Sneakers - Size 11,5,2.5,30,32.00,21,Sole Brothers Footwear,Footwear
+SNK-BLK-9,Black Sneakers - Size 9,90,1.5,30,32.00,21,Sole Brothers Footwear,Footwear
+BOOT-BRN-10,Brown Chelsea Boot - Size 10,25,1.0,20,55.00,28,Sole Brothers Footwear,Footwear
+BOOT-BRN-11,Brown Chelsea Boot - Size 11,0,0.8,20,55.00,28,Sole Brothers Footwear,Footwear
+SNDL-TAN-8,Tan Sandals - Size 8,150,0,20,18.00,21,Sole Brothers Footwear,Footwear
+BLT-BLK-M,Black Leather Belt - Medium,35,2.0,40,12.00,10,Urban Accessories Co,Accessories
+BLT-BLK-L,Black Leather Belt - Large,18,1.8,40,12.00,10,Urban Accessories Co,Accessories
+BLT-BRN-M,Brown Leather Belt - Medium,50,1.5,40,12.00,10,Urban Accessories Co,Accessories
+CAP-NVY,Navy Baseball Cap,10,3.0,60,7.50,10,Urban Accessories Co,Accessories
+CAP-BLK,Black Baseball Cap,75,2.5,60,7.50,10,Urban Accessories Co,Accessories
+SCF-RED,Red Silk Scarf,40,0.5,25,22.00,10,Urban Accessories Co,Accessories
+JNS-BLU-32,Blue Slim Jeans - 32,22,4.0,50,28.00,18,Pacific Denim,Bottoms
+JNS-BLU-34,Blue Slim Jeans - 34,15,3.5,50,28.00,18,Pacific Denim,Bottoms
+JNS-BLK-32,Black Slim Jeans - 32,55,3.0,50,28.00,18,Pacific Denim,Bottoms
+JNS-BLK-34,Black Slim Jeans - 34,8,2.8,50,28.00,18,Pacific Denim,Bottoms
+SRT-KHK-M,Khaki Shorts - Medium,100,1.0,40,18.00,18,Pacific Denim,Bottoms
+SRT-KHK-L,Khaki Shorts - Large,42,1.2,40,18.00,18,Pacific Denim,Bottoms
+SRT-NVY-M,Navy Shorts - Medium,48,1.5,40,18.00,18,Pacific Denim,Bottoms
