@@ -1,4 +1,4 @@
-import { SchemaType } from "@google/generative-ai";
+import { SchemaType, Schema } from "@google/generative-ai";
 
 // --- Input types ---
 
@@ -58,7 +58,7 @@ export interface GenerateResponse {
 
 // --- Gemini responseSchema (uses SchemaType enum from SDK) ---
 
-export const geminiResponseSchema = {
+export const geminiResponseSchema: Schema = {
   type: SchemaType.OBJECT,
   properties: {
     purchase_orders: {
@@ -86,6 +86,7 @@ export const geminiResponseSchema = {
                 days_of_stock_remaining: { type: SchemaType.NUMBER },
                 urgency: {
                   type: SchemaType.STRING,
+                  format: "enum",
                   enum: ["HIGH", "MEDIUM", "LOW"],
                 },
                 recommended_order_qty: { type: SchemaType.NUMBER },
